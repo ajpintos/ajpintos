@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a private project [FriendsPoints](https://github.com/ajpintos/friendspoints.git)
 
-- 🌱 I’m currently learning **Laravel, NextJS**
+- 🌱 I’m currently learning AtroJS
 
 - 👯 I’m looking to improve [BioFresh.shop](https://github.com/ajpintos/pf-frontend.git)
 
