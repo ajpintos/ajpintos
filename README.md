@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning AtroJS
 
-- 👯 I’m looking to improve [BioFresh.shop](https://github.com/ajpintos/pf-frontend.git)
-
 - 👨‍💻 All of my projects are available at [jpintos.dev](jpintos.dev)
 
 - 📝 I regularly write articles on [jpintos.dev/blog](jpintos.dev/blog)
