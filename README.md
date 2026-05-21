@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Javier Pintos</h1>
-<h3 align="center">A passionate Front-End Engineer from Uruguay</h3>
+<h3 align="center">A passionate Senior Front-End Engineer/ AI Engineer from Uruguay</h3>
 
 - 🔭 I’m currently Open to Work! You can Hire Me!
 
-- 🌱 I’m currently learning AtroJS
+- 🔭 **Currently focusing on:**
+* 🧠 Completing my journey as an **AI Engineer**
+* 📐 Designing systems through **Spec-Driven Development (SDD)**
+* 🖥️ Scaling and hardening **Server Infrastructure**
 
 - 👨‍💻 All of my projects are available at [jpintos.dev](jpintos.dev) (coming soon)
 
