@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Pintos</h1>
 <h3 align="center">A passionate Front-End Engineer from Uruguay</h3>
 
-- 🔭 I’m currently working in Percona, an American Company as Frontend Engineer
+- 🔭 I’m currently Open to Work! You can Hire Me!
 
 - 🌱 I’m currently learning AtroJS
 
