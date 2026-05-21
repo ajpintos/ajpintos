@@ -4,13 +4,13 @@
 - 🔭 I’m currently Open to Work! You can Hire Me!
 
 - 🔭 **Currently focusing on:**
-* 🧠 Completing my journey as an **AI Engineer**
-* 📐 Designing systems through **Spec-Driven Development (SDD)**
-* 🖥️ Scaling and hardening **Server Infrastructure**
+    - 🧠 Completing my journey as an **AI Engineer**
+    - 📐 Designing systems through **Spec-Driven Development (SDD)**
+    - 🖥️ Scaling and hardening **Server Infrastructure**
 
-- 👨‍💻 All of my projects are available at [jpintos.dev](jpintos.dev) (coming soon)
+- 👨‍💻 All of my projects are available at [jpintos.dev](jpintos.dev)
 
-- 💬 Ask me about **react, js, nodejs, css**
+- 💬 Ask me about **react, js, Ai Automation**
 
 - 📫 How to reach me **hola@jpintos.dev**
 
